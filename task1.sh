@@ -41,7 +41,7 @@ while true; do
 done
 
 
-# Print results at bottom 
+# keep at bottom :)
 echo "\nResults:"
 echo "Total odd hexagonal numbers: $oddCount"
 echo "Total even hexagonal numbers: $evenCount"
